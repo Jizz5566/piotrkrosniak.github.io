@@ -1,13 +1,13 @@
 .slider {
-  top: 10px;
-  left: 5px;
+  top: 5px;
+  left: 30px;
   width: 300px;
 }
 
 .output {
 position: fixed;
 top: 5px;
-left: 330px;
+left: 0px;
 z-index: 2;
 background-color: #000;
 background-color: rgba(0, 0, 0, 0.7);
