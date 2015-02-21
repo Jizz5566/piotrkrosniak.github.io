@@ -3,9 +3,9 @@
 }
 
 .output {
-position: relative;
+position: absolute;
 top: 5px;
-left: 820px;
+left: 220px;
 z-index: 1002;
 background-color: #000;
 background-color: rgba(0, 0, 0, 0.7);
