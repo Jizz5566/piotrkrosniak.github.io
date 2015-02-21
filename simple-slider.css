@@ -1,11 +1,11 @@
 .slider {
   top: 10px;
-  left: 10px;
+  left: 5px;
   width: 300px;
 }
 
 .output {
-position: absolute;
+position: fixed;
 top: 5px;
 left: 330px;
 z-index: 2;
