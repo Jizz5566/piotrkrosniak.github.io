@@ -1,13 +1,14 @@
 .slider {
+  position:inherit;
   top: 5px;
-  left: 30px;
+  left: 70px;
   width: 300px;
 }
 
 .output {
 position: fixed;
 top: 5px;
-left: 0px;
+left: 5px;
 z-index: 2;
 background-color: #000;
 background-color: rgba(0, 0, 0, 0.7);
